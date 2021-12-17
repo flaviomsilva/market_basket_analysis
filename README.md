@@ -1,18 +1,19 @@
 <b>Análise de Cesta de Compras (Market Basket Analysis) </b>
 
+O conjunto de dados analisados um conjunto relacional de arquivos que descreve os pedidos dos clientes ao longo do tempo.
+
 <b>Qual é o problema do negócio?</b>
 
-Um varejista quer aumentar suas vendas e para isso necessita saber a correlação entre produtos, para que possa melhor organizar seus produtos no corredores. 
-
+Prevê  quais produtos estarão no próximo pedido de um usuário.
 Para isso, foram elencadas 06 perguntas:
-
-1) Qual o Número de Pedidos Mais Frequente Entre os Usuários?
-2) Qual Hora do Dia Tem o Maior Número de Pedidos?
-3) Quais os 20 Principais Corredores Por Frequência de Pedidos?
-4) Quais os 20 Principais Produtos Por Frequência de Pedidos?
-5) Qual a relação de Novos Pedidos Semelhantes a Pedidos Anteriores (reorder)
-6) Qual o Reorder Por Departamento ao Longo do Tempo?
-
+<li>
+	<ul>1) Qual o Número de Pedidos Mais Frequente Entre os Usuários?</ul>
+	<ul>2) Qual Hora do Dia Tem o Maior Número de Pedidos?</ul>
+	<ul>3) Quais os 20 Principais Corredores Por Frequência de Pedidos?</ul>
+	<ul>4) Quais os 20 Principais Produtos Por Frequência de Pedidos?</ul>
+	<ul>5) Qual a relação de Novos Pedidos Semelhantes a Pedidos Anteriores (reorder)</ul>
+	<ul>6) Qual o Reorder Por Departamento ao Longo do Tempo?</ul>
+</li>
 <b>Fonte de Dados:</b>
 
 https://www.kaggle.com/c/instacart-market-basket-analysis/data
@@ -23,17 +24,21 @@ A Análise de Cesta de Compras (Market Basket Analysis) é uma das principais t�
 
 Inicialmente no notebook são apresentados:
 
-A) Bibliotecas
-B) Carregamento dos dados
+<li>
+	<ul>A) Bibliotecas</ul>
+	<ul>B) Carregamento dos dados</ul>
+</li>
 
 E a seguir:
 
-Passo 1 - Instalação e Carregamento dos Pacotes
-Passo 1 - Carregamento dos Dados
-Passo 1 - Análise Exploratória
-Passo 1 - Limpeza dos Dados
-Passo 1 - Análise Estatística Descritiva
-Passo 1 - Implementação do Algoritmo Apriori
+<li>
+<ul>Passo 1 - Instalação e Carregamento dos Pacotes</ul>
+<ul>Passo 1 - Carregamento dos Dados</ul>
+<ul>Passo 1 - Análise Exploratória</ul>
+<ul>Passo 1 - Limpeza dos Dados</ul>
+<ul>Passo 1 - Análise Estatística Descritiva</ul>
+<ul>Passo 1 - Implementação do Algoritmo Apriori</ul>
+</li>
 
 <b>Conclusão (primeiro ciclo do CRISP-DM):</b>
 
