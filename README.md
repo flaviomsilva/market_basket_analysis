@@ -1,6 +1,6 @@
 <b>Análise de Cesta de Compras (Market Basket Analysis) </b>
 
-O conjunto de dados analisados um conjunto relacional de arquivos que descreve os pedidos dos clientes ao longo do tempo.
+O conjunto de dados (anônimo)  descreve os pedidos dos clientes ao longo do tempo.
 
 <b>Qual é o problema do negócio?</b>
 
